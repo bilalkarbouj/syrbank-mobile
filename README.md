@@ -127,6 +127,7 @@ Kullanıcılar hesap bakiyelerini görüntüleyebilir.
 
 • 💸 **Anında Para Transferi**  
 Hesaplar arası hızlı para gönderme.
+Dekont yazdırma.
 
 • 📷 **QR ile Ödeme**  
 QR kod ile ödeme yapma veya ödeme alma.

@@ -73,13 +73,13 @@ The application includes multiple user interface screens such as:
 - QR Payment  
 - QR Receive Payment  
 - Profile & Settings  
-<img width="403" height="909" alt="Ekran görüntüsü 2026-03-06 021532" src="https://github.com/user-attachments/assets/13de1344-6edb-4f32-8d7d-e4bb9bdff670" />
-<img width="403" height="907" alt="Ekran görüntüsü 2026-03-06 021323" src="https://github.com/user-attachments/assets/5052796b-0082-4963-bd1b-1e0769de0e22" />
-<img width="408" height="909" alt="Ekran görüntüsü 2026-03-06 020630" src="https://github.com/user-attachments/assets/a8da23e2-278d-4350-a84e-cb7bd200b51b" />
-<img width="408" height="907" alt="Ekran görüntüsü 2026-03-06 020729" src="https://github.com/user-attachments/assets/d1163724-afe2-4ed3-a50a-c6790ff64e4d" />
-<img width="402" height="914" alt="Ekran görüntüsü 2026-03-06 021854" src="https://github.com/user-attachments/assets/7eb1bc25-deb6-493c-89e7-ada6dd5e6f34" />
-<img width="411" height="911" alt="Ekran görüntüsü 2026-03-06 020713" src="https://github.com/user-attachments/assets/fd52a66c-a9b2-48f1-a234-9d9d041cbc06" />
-<img width="409" height="908" alt="Ekran görüntüsü 2026-03-06 020704" src="https://github.com/user-attachments/assets/55c4612c-9600-4c9c-91d5-72543253f14c" />
+<img width="200" height="450" alt="Ekran görüntüsü 2026-03-06 021532" src="https://github.com/user-attachments/assets/13de1344-6edb-4f32-8d7d-e4bb9bdff670" />
+<img width="200" height="450" alt="Ekran görüntüsü 2026-03-06 021323" src="https://github.com/user-attachments/assets/5052796b-0082-4963-bd1b-1e0769de0e22" />
+<img width="200" height="450" alt="Ekran görüntüsü 2026-03-06 020630" src="https://github.com/user-attachments/assets/a8da23e2-278d-4350-a84e-cb7bd200b51b" />
+<img width="200" height="450" alt="Ekran görüntüsü 2026-03-06 020729" src="https://github.com/user-attachments/assets/d1163724-afe2-4ed3-a50a-c6790ff64e4d" />
+<img width="200" height="450" alt="Ekran görüntüsü 2026-03-06 021854" src="https://github.com/user-attachments/assets/7eb1bc25-deb6-493c-89e7-ada6dd5e6f34" />
+<img width="200" height="450" alt="Ekran görüntüsü 2026-03-06 020713" src="https://github.com/user-attachments/assets/fd52a66c-a9b2-48f1-a234-9d9d041cbc06" />
+<img width="200" height="450" alt="Ekran görüntüsü 2026-03-06 020704" src="https://github.com/user-attachments/assets/55c4612c-9600-4c9c-91d5-72543253f14c" />
 
 
 
